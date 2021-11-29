@@ -1,4 +1,5 @@
 # Hand Motion based blackboard application
+![](pr.gif)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
